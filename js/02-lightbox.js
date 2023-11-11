@@ -25,4 +25,4 @@ captionsData: 'alt',
 captionDelay: 250,
 });
 
-console.log(galleryItems);
+console.log(lightbox);
